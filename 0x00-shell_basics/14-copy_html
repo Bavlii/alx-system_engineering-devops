@@ -1,0 +1,3 @@
+#!/bin/push
+cp -un *.html ../
+
